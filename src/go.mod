@@ -24,7 +24,7 @@ require (
 	github.com/sandertv/go-formula/v2 v2.0.0-alpha.7
 	github.com/sirupsen/logrus v1.9.3
 	github.com/x448/float16 v0.8.4
-	golang.org/x/crypto v0.31.0
+	golang.org/x/crypto v0.32.0
 	golang.org/x/exp v0.0.0-20240909161429-701f63a606c0
 	gopkg.in/ini.v1 v1.67.0
 	periph.io/x/conn/v3 v3.7.1
@@ -60,8 +60,8 @@ require (
 	github.com/tinygo-org/pio v0.0.0-20231216154340-cd888eb58899 // indirect
 	golang.org/x/net v0.32.0 // indirect
 	golang.org/x/sync v0.8.0 // indirect
-	golang.org/x/sys v0.28.0 // indirect
-	golang.org/x/term v0.27.0 // indirect
+	golang.org/x/sys v0.29.0 // indirect
+	golang.org/x/term v0.28.0 // indirect
 	golang.org/x/xerrors v0.0.0-20220411194840-2f41105eb62f // indirect
 	google.golang.org/protobuf v1.35.2 // indirect
 )
